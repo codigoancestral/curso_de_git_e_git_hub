@@ -1,9 +1,6 @@
 # Ignorando um único arquivo
 Buraco Negro Distante.jpg
 
-# Ignorando arquivos por uma extensão
-*.jpg
-
 # Ignorando pastas ou diretórios
 vendor/
 node_modules/

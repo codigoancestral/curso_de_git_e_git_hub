@@ -1,1 +1,2 @@
 10-02-2023 - Aprendendo a usar o comando git log
+16-02-2023 - Aprendendo a gerenciar conflitos no git e github
